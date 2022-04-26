@@ -1,0 +1,6 @@
+{
+  "root": "packages/mji/packages/images",
+  "sourceRoot": "packages/mji/packages/images/packages",
+  "projectType": "library",
+  "tags": []
+}
