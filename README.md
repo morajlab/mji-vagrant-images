@@ -1,3 +1,3 @@
 # images
 
-Collection of different OS images
+Collection of different Vagrant OS images

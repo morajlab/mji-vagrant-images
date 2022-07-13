@@ -1,6 +1,6 @@
 {
-  "root": "packages/mji/packages/images",
-  "sourceRoot": "packages/mji/packages/images/packages",
+  "root": "packages/mji/packages/vagrant-images",
+  "sourceRoot": "packages/mji/packages/vagrant-images/packages",
   "projectType": "library",
   "tags": []
 }
